@@ -1,4 +1,4 @@
-package main;
+package main.Sample1;
 
 
 public abstract class AbstractCar implements Car {
