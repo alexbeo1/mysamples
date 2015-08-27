@@ -1,4 +1,4 @@
-package main;
+package main.Sample1;
 
 /**
  * Александр Козлов
